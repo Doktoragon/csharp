@@ -1,0 +1,6 @@
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\bin\Debug\Algorytm3Średnia.exe.config
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\bin\Debug\Algorytm3Średnia.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\bin\Debug\Algorytm3Średnia.pdb
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\obj\Debug\Algorytm3Średnia.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\obj\Debug\Algorytm3Średnia.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm3Średnia\obj\Debug\Algorytm3Średnia.pdb

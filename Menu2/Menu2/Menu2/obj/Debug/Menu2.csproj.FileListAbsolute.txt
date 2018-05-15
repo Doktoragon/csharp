@@ -1,0 +1,7 @@
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\bin\Debug\Menu2.exe.config
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\bin\Debug\Menu2.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\bin\Debug\Menu2.pdb
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\obj\Debug\Menu2.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\obj\Debug\Menu2.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\obj\Debug\Menu2.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Menu2\obj\Debug\Menu2.pdb

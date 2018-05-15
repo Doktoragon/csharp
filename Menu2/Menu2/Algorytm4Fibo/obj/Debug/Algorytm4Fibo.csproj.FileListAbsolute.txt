@@ -1,0 +1,7 @@
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\bin\Debug\Algorytm4Fibo.exe.config
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\bin\Debug\Algorytm4Fibo.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\bin\Debug\Algorytm4Fibo.pdb
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\obj\Debug\Algorytm4Fibo.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\obj\Debug\Algorytm4Fibo.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\obj\Debug\Algorytm4Fibo.exe
+C:\Users\Marcin\Desktop\C#\Menu2\Menu2\Algorytm4Fibo\obj\Debug\Algorytm4Fibo.pdb
